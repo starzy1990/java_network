@@ -5,6 +5,9 @@ import org.jboss.marshalling.MarshallerFactory;
 import org.jboss.marshalling.Marshalling;
 import org.jboss.marshalling.MarshallingConfiguration;
 
+/**
+ * Jboss Marshalling编解码工具类
+ */
 public class MarshallingCodeCFactory {
 
     /**
